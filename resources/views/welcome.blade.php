@@ -1,0 +1,4 @@
+
+
+
+{{ __('welcome to pakistan') }}
